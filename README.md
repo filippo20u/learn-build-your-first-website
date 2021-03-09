@@ -1,2 +1,3 @@
-# portfolio
-main projects to build portfolio
+# LEARN Build your first website project
+
+My first coding experience with LEARN and Andee
